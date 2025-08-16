@@ -68,6 +68,5 @@ ativo e a análise de todos esses fatores em simultâneo possibilita uma anális
 
 
 ## Demo:
-<video src="domonstração dashboard ações.mp4" controls width="100%"></video>
-conjuntural do ativo.
+[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/HWRcbe3lULY/0.jpg)](https://youtu.be/HWRcbe3lULY)
 
