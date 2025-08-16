@@ -56,9 +56,11 @@ Gráfico “Monthly Change” mostra variações bruscas mensais
 A combinação entre alta no preço, aumento na liquidez e 
 volume pode mostrar entrada de investidores institucionais ou movimentos setoriais. 
 Por exemplo, um aumento no volume junto com maior yield pode indicar compra estratégica em busca de dividendos. 
+
 ---
 
 ## Conclusão
+
 Em resumo, o dashboard permite análise da evolução de preço, de renda passiva que 
 o ativo gera, o nível de liquidez e interesse do mercado, a volatilidade e o risco do 
 ativo e a análise de todos esses fatores em simultâneo possibilita uma análise 
