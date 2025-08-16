@@ -64,5 +64,10 @@ Por exemplo, um aumento no volume junto com maior yield pode indicar compra estr
 Em resumo, o dashboard permite análise da evolução de preço, de renda passiva que 
 o ativo gera, o nível de liquidez e interesse do mercado, a volatilidade e o risco do 
 ativo e a análise de todos esses fatores em simultâneo possibilita uma análise 
+
+
+
+## Demo:
+<video src="domonstração dashboard ações.mp4" controls width="100%"></video>
 conjuntural do ativo.
-  
+
