@@ -68,5 +68,7 @@ ativo e a análise de todos esses fatores em simultâneo possibilita uma anális
 
 
 ## Demo:
-[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/HWRcbe3lULY/0.jpg)](https://youtu.be/HWRcbe3lULY)
+https://github.com/user-attachments/assets/e29b4fff-1cfc-4c60-8c4e-6cd03fb0cfd6
+
+
 
