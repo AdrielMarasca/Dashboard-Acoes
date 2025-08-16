@@ -52,6 +52,7 @@ Gráfico “Monthly Change” mostra variações bruscas mensais
 — boas para traders, ruins para quem busca estabilidade.   
 
 ###  Correlações e Tendências  
+
 A combinação entre alta no preço, aumento na liquidez e 
 volume pode mostrar entrada de investidores institucionais ou movimentos setoriais. 
 Por exemplo, um aumento no volume junto com maior yield pode indicar compra estratégica em busca de dividendos. 
